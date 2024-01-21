@@ -1,6 +1,6 @@
 # French Lesson AI
 
-Internal tool to spin up a local DPC
+Tool which harnesses Open AI and ElevenLabs AI to provide french lessons
 
 ## Prerequisites
 
